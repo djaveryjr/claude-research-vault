@@ -2,7 +2,7 @@
 
 ## Meta
 - Created: 2026-03-19
-- Last Updated: 2026-03-20
+- Last Updated: 2026-03-20 (car seat compatibility added)
 - Status: Active Research
 - Life Triage Ref: Research Baby Strollers
 - Owner: Both
@@ -132,6 +132,89 @@ First child due August 20, 2026. Researching stroller options. Initial shortlist
 
 ---
 
+## Compatible Newborn Car Seats (Nuna PIPA Series)
+
+All Nuna strollers in this shortlist are compatible with the **Nuna PIPA series** infant car seats. There are currently 4 models in the PIPA lineup, split by two key variables: **weight/foam type** and **installation method (base vs. baseless)**.
+
+All PIPA models share: GREENGUARD Gold certified, no flame retardants, FAA-approved for aircraft, 5-point harness, compatible with all Nuna strollers (no adapters needed on TRVL; ring adapter included with TRIV Next purchase).
+
+---
+
+### PIPA Car Seat Option A — PIPA RX
+- Price: ~$500–$550 (includes RELX base)
+- Seat Weight: 7.6 lbs (without canopy/inserts)
+- Age Range: 4–32 lbs, 17–32 inches
+- Installation: With RELX base (rigid LATCH + load leg) OR seatbelt only (no base) — most flexible install options
+- RELX Base Features: Steel load leg (reduces head injury risk 46%), anti-rebound plate, rigid LATCH (50% stronger than plastic), multiple recline positions
+- Foam: EPS (standard, heavier)
+- Extras: Leatherette accents, dream drape canopy, no-rethread harness
+- Best For: Families wanting base-based install flexibility across multiple vehicles
+- Stroller Compatibility: All three Nuna strollers (TRVL — no adapter; TRIV Next — ring adapter included; TRIV LX — works but stroller comes with urbn)
+
+---
+
+### PIPA Car Seat Option B — PIPA aire
+- Price: ~$500 (seat only; RELX base sold separately)
+- Seat Weight: ~5.5 lbs (lightest in the series)
+- Age Range: 4–32 lbs, 17–32 inches
+- Installation: Seatbelt-only (no base included); RELX base can be purchased separately
+- Foam: EPP (Aeroflex) — lighter, more flexible, doesn't off-gas like EPS, antibacterial properties
+- Best For: Parents who prioritize lightest carry weight and plan to use seatbelt install or add base separately
+- Note: If buying separate base, total cost approaches PIPA aire RX — better to buy the RX bundle
+- Stroller Compatibility: All three Nuna strollers (same as above)
+
+---
+
+### PIPA Car Seat Option C — PIPA aire RX ⭐ (Top Pick Among Standalone Seats)
+- Price: ~$650 (includes RELX base)
+- Seat Weight: 6.2 lbs (without canopy/inserts)
+- Age Range: 4–32 lbs, 17–32 inches
+- Installation: With RELX base (rigid LATCH + load leg) OR European belt path (seatbelt, no base)
+- RELX Base Features: Same as PIPA RX (load leg, anti-rebound, rigid LATCH, recline)
+- Foam: EPP (Aeroflex) — same lightweight foam as PIPA aire; significantly lighter than PIPA RX's EPS
+- Extras: Sky Drape™ magnetic canopy, magnetic harness buckle holders, Tailor Tech memory foam headrest — most premium feature set of any standalone PIPA
+- Best For: Parents who want the lightest seat with a base AND the most premium features; top-of-the-line among individually purchasable options
+- Stroller Compatibility: All three Nuna strollers (same as above)
+
+---
+
+### PIPA Car Seat Option D — PIPA urbn
+- Price: NOT sold separately — bundled only with select Nuna travel systems
+  - TRVL LX + PIPA urbn: ~$900
+  - TRIV Next + PIPA urbn: ~$1,100
+  - TRIV LX + PIPA urbn: ~$1,300
+- Seat Weight: 7 lbs (without canopy/inserts)
+- Age Range: 4–30 lbs, 16–29 inches (slightly smaller range than other PIPA models)
+- Installation: **Baseless only** — integrated pipaFIX™ rigid ISOFIX latch built into the seat; installs in ~2 seconds with no base, no seatbelt routing
+- Key Feature: No base needed, ever — handle doubles as anti-rebound bar; full-size mesh peek-a-boo canopy panel
+- Best For: City families, rideshare-heavy households, frequent travelers who hop between cars — the fastest and most repeatable install
+- Important Limitation: **No base option** — if you want a traditional base in your vehicle (especially important for daily driver use), this is not the right seat. Most US families with a primary car prefer a base for daily ease.
+- Stroller Compatibility: All three Nuna strollers (built-in, no adapter needed)
+
+---
+
+### Car Seat Compatibility by Stroller
+
+| | PIPA RX | PIPA aire | PIPA aire RX | PIPA urbn |
+|---|---|---|---|---|
+| **Nuna TRVL** | ✅ no adapter | ✅ no adapter | ✅ no adapter | ✅ no adapter |
+| **Nuna TRIV Next** | ✅ ring adapter included | ✅ ring adapter included | ✅ ring adapter included | ✅ ring adapter included |
+| **Nuna TRIV LX** | ✅ (stroller sold w/ urbn) | ✅ | ✅ | ✅ (included) |
+| **Sold separately?** | ✅ | ✅ | ✅ | ❌ bundle only |
+| **Has a base?** | ✅ RELX included | ❌ base extra | ✅ RELX included | ❌ baseless only |
+| **Seat weight** | 7.6 lbs | ~5.5 lbs | 6.2 lbs | 7 lbs |
+| **Price** | ~$500–$550 | ~$500 | ~$650 | bundle only |
+
+---
+
+### Car Seat Recommendation
+- **Best standalone seat:** PIPA aire RX — lightest with a base, most premium features, works with any stroller in the shortlist
+- **Best for rideshare/city lifestyle:** PIPA urbn — but requires buying a bundled travel system
+- **Skip the PIPA aire (seat only):** Without the base, install is less secure for daily car use; adding the base separately brings the cost to near-RX levels
+- **Key decision:** Do you want a base in your car? If yes → PIPA RX or aire RX. If no (primarily rideshares/taxis) → PIPA urbn via a travel system bundle.
+
+---
+
 ## Key Comparison Table
 
 | | Nuna TRVL | Nuna TRIV (Next) | Nuna TRIV LX | Doona |
@@ -167,3 +250,4 @@ Pending — but key considerations emerging:
 ## Research Log
 - 2026-03-19: File created. Initial shortlist of 4 models identified — Nuna TRVL, Nuna TRIV, Nuna TRIV LX, Doona Travel Stroller. Research pending.
 - 2026-03-20: Full research completed. Pricing, specs, pros/cons, and comparison table populated for all 4 options. Noted TRIV current model is TRIV Next. Noted TRIV LX only available as travel system with PIPA urbn ($1,300). Noted Doona limited to ~15 months and has no storage basket. Flagged car seat strategy as key decision input.
+- 2026-03-20: Added full PIPA car seat compatibility section. Covers all 4 current PIPA models (RX, aire, aire RX, urbn) with pricing, weights, install methods, and compatibility matrix. Flagged PIPA urbn as baseless-only — not recommended for families with a dedicated daily-driver vehicle. PIPA aire RX flagged as best standalone seat option.
