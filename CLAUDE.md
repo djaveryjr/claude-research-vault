@@ -111,6 +111,7 @@ When researching:
 | construction-defect-lawyers.md | Active Research | urgent | Dave | Research Lawyers for House Dispute |
 | bathroom-contractors.md | Active Research | urgent | Dave | Research Contractors for Bathroom Issues |
 | flooring-inspectors.md | Active Research | urgent | Dave | Research Flooring Inspectors |
+| water-damage-abatement.md | Active Research | urgent | Dave | Research Flooring Inspectors (water damage component) |
 | baby-strollers.md | Active Research | medium | Both | Research Baby Strollers |
 | diaper-brands.md | Active Research | medium | Both | Diaper Research |
 
