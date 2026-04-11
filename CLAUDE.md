@@ -114,6 +114,7 @@ When researching:
 | water-damage-abatement.md | Active Research | urgent | Dave | Research Flooring Inspectors (water damage component) |
 | baby-strollers.md | Active Research | medium | Both | Research Baby Strollers |
 | diaper-brands.md | Active Research | medium | Both | Diaper Research |
+| murphy-bed-build.md | Active Research | medium | Dave | Murphy Bed DIY Build |
 
 ---
 
