@@ -9,7 +9,7 @@
 - Priority: medium
 
 ## Context
-DIY build of a queen-size murphy bed cabinet with integrated fold-out desk. Lift mechanism and desk mechanism hardware have been purchased. Local plywood supplier identified. Several tools selected but not yet purchased. Build uses pre-finished plywood and hardwood boards throughout — no paint or stain finishing required beyond edge banding. Multiple component decisions remain outstanding.
+DIY build of a queen-size murphy bed cabinet with integrated fold-out desk. Lift mechanism and desk mechanism hardware have been purchased. Local plywood supplier identified. Several tools selected but not yet purchased. Build uses pre-finished Baltic Birch white melamine plywood and hardwood boards throughout — no paint or stain finishing required beyond edge banding. Multiple component decisions remain outstanding.
 
 ---
 
@@ -39,7 +39,7 @@ DIY build of a queen-size murphy bed cabinet with integrated fold-out desk. Lift
   - Includes: (2) heavy-duty folding hinges, (2) locking catches, hardware pack
   - Desk surface panel must be built separately — mechanism is hardware only
 - Assembly Instructions: https://go.rockler.com/tech/78834-murphy-desk-mechanism-kit-inst.pdf
-- Notes: Desk panel dimensions and material need to be confirmed against mechanism instructions. Desk will need its own panel cut from plywood stock.
+- Notes: Desk panel will be pre-finished plywood — lightweight decorative shelf, not heavy-use work surface. Confirm dimensions from mechanism instructions before cutting.
 
 ---
 
@@ -48,13 +48,14 @@ DIY build of a queen-size murphy bed cabinet with integrated fold-out desk. Lift
 #### B1 — Plywood
 - Supplier: Berta Store (local) — bertastore.com
 - Status: 🔲 Not yet purchased — cut list must be finalized from mechanism plans first
-- Requirements: Furniture-grade, ply-core (not MDF-core), 3/4" thickness for cabinet panels
-- Notes: Pull cut list from S-100 plans before ordering. Calculate total sheet count with ~10–15% overage for waste. Confirm Berta carries ply-core (not MDF-core) in furniture grade. Specify face veneer species to match planned hardwood trim.
+- Spec: ✅ Confirmed — Baltic Birch, pre-finished white melamine, 3/4" ply-core
+- Notes: Baltic Birch is an excellent choice — dense ply-core construction satisfies S-100 requirements; white melamine is the desired final finish color and texture. Pull cut list from S-100 plans before ordering. Calculate total sheet count with ~10–15% overage for waste.
 
 #### B2 — Edge Banding
 - Supplier: Berta Store (local)
 - Status: 🔲 Not yet purchased
-- Notes: Width must match plywood thickness (typically 13/16" for 3/4" ply). Confirm species/finish matches face veneer. Iron-on PVC or wood veneer edge banding both viable — veneer preferred for a cleaner look with hardwood trim.
+- Spec: White melamine or white PVC iron-on edge banding to match plywood finish
+- Notes: Width must match plywood thickness (typically 13/16" for 3/4" ply). Match to white melamine face — do NOT use wood veneer banding on a white melamine build. Application: home iron (no dedicated applicator needed). Still need a flush-trim edge banding trimmer and scraper for clean results after ironing.
 
 ---
 
@@ -62,11 +63,12 @@ DIY build of a queen-size murphy bed cabinet with integrated fold-out desk. Lift
 
 #### C1 — Track Saw + Guide Tracks
 - Status: 🔲 Selected, not yet purchased
-- ⚠️ Important: Verify guide track length before purchasing. Queen cabinet panels can exceed 80". A standard 55" track will not handle full-length rips on 8' panels — a 102"+ track or track connectors are required for breaking down full sheets.
+- Spec: ✅ Resolved — purchasing 2x 55" guide rails with joining connector (110" effective length)
+- Notes: 110" joined track is sufficient for full 8' rips on 4x8 sheet goods. Confirm connector/joiner is included or purchased separately.
 
 #### C2 — Router
 - Status: 🔲 Selected, not yet purchased
-- ⚠️ Router bits not yet identified — router is unusable without bits. For this build, likely needed: straight/spiral upcut bit (for dados and rabbets), flush trim bit, and possibly a roundover bit for exposed edges. Confirm bit requirements against plans before purchasing.
+- ⚠️ Router bits remain an open question — confirm required bit types from S-100 plans before purchasing. Likely candidates: straight/spiral upcut bit (dados/rabbets), flush trim bit. Roundover bit optional depending on edge treatment preference.
 
 #### C3 — Quick Square
 - Status: 🔲 Selected, not yet purchased
@@ -79,25 +81,25 @@ DIY build of a queen-size murphy bed cabinet with integrated fold-out desk. Lift
 
 ### CATEGORY D — Hardware & Fasteners (Outstanding 🔲)
 
-#### D1 — #8 x 1-1/4" Countersink Wood Screws
+#### D1 — #8 x 1-1/4" Countersink Wood Screws (Square Drive)
 - Status: 🔲 Not yet purchased
-- Notes: Calculate quantity from cut list/assembly instructions. Buy in bulk box.
+- Notes: Square drive confirmed as fastener standard for this build. Calculate quantity from cut list/assembly instructions. Buy in bulk box.
 
-#### D2 — #8 x 2-1/2" Wood Screws
+#### D2 — #8 x 2-1/2" Wood Screws (Square Drive)
 - Status: 🔲 Not yet purchased
-- Notes: Calculate quantity from plans. Buy in bulk box.
+- Notes: Square drive. Calculate quantity from plans. Buy in bulk box.
 
 #### D3 — Countersink Drill Bit (Matching #8)
 - Status: 🔲 Not yet purchased
-- Notes: Get a combo countersink/drill bit sized for #8 screws. Consider a set if router bit selection requires additional bits.
+- Notes: Combo countersink/drill bit sized for #8 screws.
 
 #### D4 — Hardwood Dowels (for cleats)
 - Status: 🔲 Not yet purchased
 - Notes: Confirm dowel diameter and length requirements from plans.
 
-#### D5 — Wall Mounting Hardware ⚠️ NOT YET ON LIST
-- Status: 🔲 Not identified — needs resolution
-- Notes: **Critical safety item.** Murphy beds must be anchored to wall studs with structural lag bolts or equivalent. A loaded queen murphy bed exerts significant force on the wall attachment points. Confirm anchor type, bolt diameter, and quantity from S-100 plans. This is a structural connection — do not improvise.
+#### D5 — Wall Mounting Hardware
+- Status: ✅ Included in hardware purchases
+- Notes: Confirm anchor type, bolt diameter, and quantity from S-100 assembly instructions before install.
 
 ---
 
@@ -105,55 +107,62 @@ DIY build of a queen-size murphy bed cabinet with integrated fold-out desk. Lift
 
 #### E1 — Hardwood Trim and Moldings (decorative)
 - Status: 🔲 Not yet sourced or purchased
-- Notes: Species should match or complement the plywood face veneer. Common choices: poplar (paintable, affordable), oak, maple, or walnut depending on aesthetic. Will need finishing unless sourced pre-finished — clarify finish strategy for trim before purchasing.
+- Notes: Finish strategy is an open item — leaning toward matching pre-finished white to align with melamine cabinet. Sourcing pre-finished white trim/molding simplifies the build significantly. If unavailable pre-finished, painted poplar is the standard pairing with white melamine cabinets, but would require on-site finishing. Confirm availability at Berta or local millwork supplier before deciding.
 
 #### E2 — Hardwood Boards (stiffeners)
 - Status: 🔲 Not yet purchased
-- Notes: Confirm dimensions and species from plans. Pre-finished per build spec.
+- Notes: Confirm dimensions from S-100 plans. Pre-finished per build spec.
 
 #### E3 — Hardwood Dowels (cleats) — see D4
 
 ---
 
-## Gaps & Items Requiring Additional Consideration
+## Gaps & Considerations — Status Update
 
-The following items were not in the initial prep list and warrant review before the build begins:
+### ✅ Resolved
 
-### 1. Miter Saw — Likely Required for Trim Work
-A track saw and router handle sheet goods and joinery well, but trim and molding cuts require precise miter and bevel angles. A compound miter saw (or at minimum a miter box) is the standard tool for this. Without one, trim work becomes significantly harder and less accurate. Consider adding a miter saw to the tool list, or confirm a workaround.
+| # | Item | Resolution |
+|---|---|---|
+| 1 | Wall mounting hardware | Included in hardware purchases — confirm spec from S-100 instructions |
+| 2 | Mattress thickness | Existing queen mattress confirmed — fits 8–12" S-100 requirement |
+| 4 | Clamps | Already owned — sufficient for assembly |
+| 6 | Track saw rail length | 2x 55" rails with joining connector = 110" effective — sufficient for 8' rips |
+| 8 | Edge banding application | Home iron will be used — no dedicated applicator needed |
+| 10 | Plywood species & finish | ✅ Confirmed: Baltic Birch, pre-finished white melamine |
+| 11 | Pocket hole jig | Not needed — all fasteners are square drive screws throughout |
+| 12 | Desk surface panel | Pre-finished plywood — lightweight decorative shelf, not heavy-use desk |
 
-### 2. Clamps — Not Listed, Essential for Assembly
-No clamps are currently on the tool list. Cabinet assembly with glue requires multiple bar clamps or pipe clamps to hold panels while glue sets. At minimum: 4–6 bar clamps in the 24"–36" range. Consider F-clamps for smaller work.
+---
 
-### 3. Brad Nailer / Finish Nailer — For Trim Attachment
-Hardwood trim and moldings are typically glued and nailed. A brad nailer (18-gauge) or finish nailer (16-gauge) makes this significantly cleaner and easier than hand nailing. A cordless nailer eliminates the need for a compressor.
+### ⏳ TBD — Decision Pending
 
-### 4. Edge Banding Application Tools
-Berta likely carries edge banding, but applying it requires: a household iron or dedicated edge banding applicator, an edge banding trimmer (for flush-trimming overhanging banding), and a scraper or sanding block. These are low cost but easy to overlook.
+**Gap 3 — Miter cuts for trim/moldings**
+- Approach: Exploring a clamping jig to enable 45° miter cuts with the track saw
+- ~20' of trim total — a manageable quantity for this approach if the jig is accurate
+- Risk: Inside corner miters and shorter pieces can be tricky without a dedicated miter saw. A manual miter box (~$20) is a cheap fallback for shorter cuts and is worth having on hand.
+- Status: Confirm jig setup works before committing — test on scrap before cutting finished trim.
 
-### 5. Dust Collection / Shop Vac
-A track saw and router generate significant fine dust. A shop vac with a dust separator (e.g., Dust Deputy) is strongly recommended — both for health and for keeping the workspace manageable. Many track saws and routers connect directly to a shop vac.
+**Gap 5 — Brad nailer for trim attachment**
+- Approach: Considering hand nailing given ~20' of trim max
+- At that volume, hand nailing is viable with pre-drilled pilot holes to prevent splitting
+- If trim is pre-finished, hand nailing with a nail set and color-matched filler is clean and manageable
+- Status: TBD — no action needed until trim work phase begins.
 
-### 6. Mattress — Thickness Must Be Confirmed Before Cabinet is Built
-The S-100 accepts mattresses 8–12" thick. **The mattress thickness determines the interior depth of the cabinet.** If a mattress has not been selected yet, this needs to happen before cutting plywood — a mismatch will require rebuilding panels. Confirm mattress and its compressed/uncompressed thickness before finalizing the cut list.
+**Gap 9 — Finish for trim and moldings**
+- Leaning toward sourcing matching pre-finished white trim to align with melamine cabinet
+- Confirm availability at Berta or a local millwork supplier before finalizing
+- If pre-finished white trim is unavailable: painted poplar is the standard pairing with white melamine, but requires on-site finishing — revisit if pre-finished sourcing falls through
+- Status: Open — resolve when sourcing trim.
 
-### 7. Mattress Retention Straps
-When the bed is vertical (stored position), the mattress needs to be secured to prevent it from sliding. Some mechanisms include straps; confirm whether the S-100 includes them. If not, straps or a retention rail will need to be added.
+---
 
-### 8. Ceiling Height Verification
-Queen murphy beds typically require 84–88" of vertical clearance minimum (varies by mechanism). Measure the room ceiling height and confirm it meets the S-100 queen requirement before cutting any panels.
+### 🔲 Still Open
 
-### 9. Finish for Trim and Moldings
-The build spec calls for pre-finished plywood and boards — no additional finishing needed. However, hardwood trim and moldings (E1) are listed as outstanding and their finish status is unresolved. If sourced raw, they will require sanding and at minimum a topcoat. Clarify: will trim be sourced pre-finished, painted, or finished on-site?
-
-### 10. Plywood Face Veneer Species — Must Align with Trim Choice
-Furniture-grade plywood comes in many face veneer species (oak, maple, birch, walnut, etc.). The species must be selected before purchasing plywood, and it should match or intentionally complement the hardwood trim species. Pre-finished plywood further limits options — confirm Berta's available species and finishes.
-
-### 11. Pocket Hole Jig (Kreg)
-A pocket hole jig is widely used for face frames and internal cabinet joinery. If the S-100 plans call for face frame construction, a Kreg jig and matching pocket hole screws may be needed. Review plans before tool shopping.
-
-### 12. Desk Surface Panel
-The Rockler desk mechanism is hardware only — the desk surface panel must be built. Confirm dimensions from the mechanism instructions, and determine material (likely same plywood as cabinet) and edge treatment.
+**Gap 7 — Router bits**
+- Remains an open question — bit selection must be driven by the S-100 plans
+- Do not purchase router until bit requirements are identified from plans
+- Likely needed: straight/spiral upcut bit, flush trim bit; possibly roundover
+- Action: Review S-100 assembly instructions and identify all joinery types before purchasing
 
 ---
 
@@ -163,46 +172,47 @@ The Rockler desk mechanism is hardware only — the desk surface panel must be b
 |---|---|---|
 | Lift mechanism | ✅ Purchased | Wilding S-100 Queen |
 | Desk mechanism | ✅ Purchased | Rockler Create-a-Bed Murphy Desk Kit |
+| Plywood spec | ✅ Decided | Baltic Birch, pre-finished white melamine, 3/4" |
 | Plywood supplier | ✅ Identified | Berta Store (local) |
 | Edge banding supplier | ✅ Identified | Berta Store (local) |
-| Track saw + tracks | 🔲 Selected, not purchased | Verify track length before buying |
-| Router | 🔲 Selected, not purchased | Router bits not yet identified |
-| Quick square | 🔲 Selected, not purchased | |
-| Wood glue | 🔲 Selected, not purchased | Titebond II or III recommended |
-| Hardwood trim & moldings | 🔲 Outstanding | Species and finish TBD |
+| Edge banding spec | ✅ Decided | White melamine/PVC iron-on to match plywood |
+| Edge banding application | ✅ Decided | Home iron |
+| Wall mounting hardware | ✅ Included | Confirm spec from S-100 instructions |
+| Mattress | ✅ Confirmed | Existing queen — fits 8–12" requirement |
+| Clamps | ✅ Owned | Sufficient for assembly |
+| Track saw + tracks | 🔲 Selected | 2x 55" rails w/ joiner — not yet purchased |
+| Router | 🔲 Selected | Not yet purchased — bits must be identified first |
+| Quick square | 🔲 Selected | Not yet purchased |
+| Wood glue | 🔲 Selected | Titebond II or III — not yet purchased |
+| Fastener standard | ✅ Decided | Square drive throughout — no pocket hole jig needed |
+| Hardwood trim & moldings | 🔲 Outstanding | Pre-finished white preferred — sourcing TBD |
+| Trim attachment method | ⏳ TBD | Hand nail vs. brad nailer — ~20' of trim |
+| Miter cut method | ⏳ TBD | Track saw jig for 45° — test before committing |
+| Router bits | 🔲 Open | Identify from S-100 plans before purchasing |
 | #8 x 1-1/4" screws | 🔲 Outstanding | Qty from cut list |
 | #8 x 2-1/2" screws | 🔲 Outstanding | Qty from cut list |
 | Countersink drill bit (#8) | 🔲 Outstanding | |
 | Hardwood dowels (cleats) | 🔲 Outstanding | Dims from plans |
 | Hardwood boards (stiffeners) | 🔲 Outstanding | Dims from plans |
-| Wall mounting hardware | ⚠️ Not identified | Safety-critical — must address |
-| Mattress | ⚠️ Not identified | Thickness determines cabinet depth |
-| Miter saw | ⚠️ Not on list | Needed for trim work |
-| Clamps | ⚠️ Not on list | Essential for assembly |
-| Brad/finish nailer | ⚠️ Not on list | Needed for trim attachment |
-| Edge banding tools | ⚠️ Not on list | Iron, trimmer, scraper |
-| Dust collection | ⚠️ Not on list | Recommended for track saw + router |
-| Mattress retention straps | ⚠️ Confirm with mechanism | May be included in S-100 kit |
-| Pocket hole jig | ⚠️ Review plans | May be needed for face frame |
-| Desk surface panel | ⚠️ Needs spec | Material and dims from Rockler instructions |
+| Desk surface panel | 🔲 Outstanding | Pre-finished ply — dims from Rockler instructions |
+| Edge banding trimmer | 🔲 Outstanding | Low cost — needed for clean edge finish |
 
 ---
 
 ## Recommendation
-Before purchasing any materials or tools, complete the following sequence:
-1. **Confirm ceiling height** meets S-100 queen minimum clearance
-2. **Select mattress** (or confirm existing) and note thickness — this locks in cabinet depth
-3. **Review S-100 plans and cut list** — this drives plywood quantity, dowel sizes, and fastener counts
-4. **Confirm Berta's plywood face veneer options** and select species to match planned trim
-5. **Identify router bits** needed per plans before purchasing router
-6. **Verify track saw guide rail length** is sufficient for 8' rips before purchasing
-7. **Resolve trim finish strategy** — pre-finished, painted, or raw/finished on-site
+Most major decisions are now resolved or in progress. Remaining blockers before purchasing materials and tools:
+
+1. **Review S-100 assembly instructions** — drives plywood sheet count, dowel specs, fastener quantities, and router bit requirements
+2. **Identify router bits** from plans — do not purchase router until bits are known
+3. **Source pre-finished white trim/moldings** — confirm availability at Berta or local millwork; fallback is painted poplar
+4. **Test track saw miter jig** on scrap before cutting finished trim
 
 ## Decision
 - Decision Made: Pending — build not yet started
 - Choice: —
 - Rationale: —
-- Next Action: Review S-100 plans and cut list; confirm mattress thickness; finalize tool list gaps above
+- Next Action: Review S-100 assembly instructions; identify router bit requirements; source white trim/moldings
 
 ## Research Log
-- 2026-04-11: File created. Decisions made (purchased and selected) documented. Outstanding items logged. 12 gaps and additional considerations identified — wall mounting hardware, mattress selection, miter saw, clamps, brad nailer, edge banding tools, dust collection, ceiling height verification, trim finish strategy, plywood species alignment, pocket hole jig, and desk surface panel spec.
+- 2026-04-11: File created. Decisions made (purchased and selected) documented. Outstanding items logged. 12 gaps and additional considerations identified.
+- 2026-04-11: Gap review completed. 8 of 12 gaps resolved: wall mounting hardware confirmed in hardware list, existing queen mattress confirmed (fits requirement), clamps already owned, 2x 55" track rails with joiner selected, home iron confirmed for edge banding, Baltic Birch pre-finished white melamine confirmed as plywood spec, square drive fasteners confirmed (no pocket hole jig needed), desk panel confirmed as lightweight pre-finished plywood. Gaps 3 (miter method) and 5 (trim nailer) TBD pending trim work phase. Gap 7 (router bits) remains open — must be driven by plan review. Gap 9 (trim finish) leaning pre-finished white — sourcing TBD.
